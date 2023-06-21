@@ -1,6 +1,5 @@
-# INFM600-EWaste-Project
-### INFM600 E-Waste Project Deliverables
-### Employee Job Attrition Research Project
+# Employee Job Attrition Research Project
+
 
 **Introduction**
 Employee attrition is an inevitable aspect of any business, where employees may decide to leave a company due to personal or professional reasons. This research project aims to investigate the impact of monthly income on employee job attrition.
